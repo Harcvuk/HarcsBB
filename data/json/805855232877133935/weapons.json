@@ -1,0 +1,46 @@
+{
+    "Showstarter": {
+        "name": "Showstarter",
+        "class": "staff",
+        "cost": 3000,
+        "element": "fire",
+        "desc": "Cyan and yellow glasses.\nWearing those gives a strange sense of dread and comfort combined.",
+        "originalAuthor": "547427816468381717",
+        "skill": "SnapFingers",
+        "melee": 20,
+        "atk": 12,
+        "mag": 16
+    },
+    "FrostKnife": {
+        "name": "FrostKnife",
+        "class": "pierce",
+        "cost": 300,
+        "element": "slash",
+        "desc": "A cyan knife.\nTouching it makes you feel like it's snowing...",
+        "originalAuthor": "547427816468381717",
+        "skill": "ColdSurprise",
+        "atk": 9,
+        "mag": 2
+    },
+    "Paintbrush": {
+        "name": "Paintbrush",
+        "class": "staff",
+        "cost": 200,
+        "element": "strike",
+        "originalAuthor": "547427816468381717",
+        "atk": 2,
+        "mag": 5
+    },
+    "NightmareKnife": {
+        "name": "NightmareKnife",
+        "class": "pierce",
+        "cost": 1200,
+        "element": "slash",
+        "desc": "A red knife.\nHolding it makes you feel like you're burning...",
+        "originalAuthor": "547427816468381717",
+        "skill": "Nightmare Flame",
+        "melee": 45,
+        "atk": 21,
+        "mag": 18
+    }
+}

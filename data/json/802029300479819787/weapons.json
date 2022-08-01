@@ -1,0 +1,36 @@
+{
+    "FrostKnife": {
+        "name": "FrostKnife",
+        "class": "pierce",
+        "cost": 300,
+        "element": "slash",
+        "desc": "A cyan knife.\nTouching it makes you feel like it's snowing...",
+        "originalAuthor": "547427816468381717",
+        "skill": "ColdSurprise",
+        "atk": 9,
+        "mag": 2
+    },
+    "CrystalKnife": {
+        "name": "CrystalKnife",
+        "class": "pierce",
+        "cost": 2000,
+        "element": "ice",
+        "desc": "A knife made of crystals.\n...Wait, that magic isn't yours...",
+        "originalAuthor": "547427816468381717",
+        "melee": 15,
+        "atk": 12,
+        "mag": 13
+    },
+    "HeavySword": {
+        "name": "HeavySword",
+        "class": "bladed",
+        "cost": 2011,
+        "element": "slash",
+        "desc": "...Be careful not to hurt yourself with this.",
+        "originalAuthor": "547427816468381717",
+        "skill": "CrystalGrave",
+        "melee": 45,
+        "atk": 21,
+        "mag": 18
+    }
+}
