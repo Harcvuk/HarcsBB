@@ -1177,7 +1177,7 @@ editDistance = (s1, s2) => {
 
 client.on("messageCreate", (message) => {
 	if (message.author.bot) return;
-	if (message.channel.type === 'DM') return message.channel.send("Don't use me in DMs! That's kinda sussy!");
+	if (message.channel.type === 'DM') return message.channel.send("DUDE! I'M RUBBING ONE OFF! GTFO");
 
 	// Set up directory :)
 	makeDirectory(`${dataPath}/json/${message.guild.id}`);
