@@ -1,0 +1,10 @@
+{
+    "exports": {},
+    "vars": {
+        "enemykills": 1
+    },
+    "achievements": {
+        "0": true
+    },
+    "stars": 1
+}
